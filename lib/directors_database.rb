@@ -7,7 +7,7 @@ end
 # movies = directors_database[0][:movies]
 # index = 0
 # while index < movies.length
-# 
+#
 # 	binding.pry
 # 	index += 1
 # end
